@@ -1,0 +1,25 @@
+content:
+  - Types and variables
+  - Floating-point types and operations
+  - Boolean type and operations. True and false
+  - Comparing values. Relational operators
+  - Conditional statement
+  - One-line condition with ternary operator
+  - For loop
+  - While and do-while loops
+  - Break and continue. Branching
+  - Declaring methods
+  - Method  main (1)
+  - Multiple conditions  switch (1)
+  - Functional decomposition
+  - Primitive and reference types
+  - Type casting
+  - Printing data
+  - Calling methods
+  - Characters
+  - Switch expression
+  - Overloading
+  - Array
+  - Iterating over arrays
+  - Command-line arguments
+  - String

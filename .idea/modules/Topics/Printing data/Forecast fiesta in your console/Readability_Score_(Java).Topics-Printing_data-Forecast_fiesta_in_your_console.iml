@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Printing_data-Forecast_fiesta_in_your_console" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Printing data/Forecast fiesta in your console" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Readability Score (Java)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Forecast fiesta in your console">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Forecast fiesta in your console/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Forecast fiesta in your console/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Forecast fiesta in your console/out" />
+    </content>
+    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

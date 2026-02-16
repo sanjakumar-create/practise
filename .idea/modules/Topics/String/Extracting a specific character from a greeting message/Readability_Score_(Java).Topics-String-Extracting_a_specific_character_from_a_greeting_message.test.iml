@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/String/Extracting a specific character from a greeting message/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/String/Extracting a specific character from a greeting message/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-String-Extracting_a_specific_character_from_a_greeting_message.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

@@ -6,7 +6,7 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Checking if a number is even or odd/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Checking if a number is even or odd/src" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

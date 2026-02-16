@@ -4,17 +4,6 @@ import java.util.Arrays;
 class Main {
     // implement me
     private static void rotate(int[] arr, int steps) {
-          int l=arr.length;
-          int []temp= new int[l];
-          steps%=l;
-          for(int i=0;i<l;i++){
-              temp[i]=arr[(i-steps+l)%l];
-          }
-
-        System.arraycopy(temp, 0, arr, 0, l);
-
-
-
 
     }
 

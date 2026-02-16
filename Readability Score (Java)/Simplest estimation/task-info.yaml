@@ -4,7 +4,8 @@ files:
     visible: true
     learner_created: false
   - name: test/ReadabilityTest.java
+    visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/projects/39/stages/205/implement#comment
-status: Unchecked
+status: Solved
 record: 1

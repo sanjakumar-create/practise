@@ -7,11 +7,7 @@ public class Main {
     }
 
     // write your method here
-    public static void print(String str,int val){
-            System.out.println("print(\"" + str + "\", " + val + ")");
 
-
-    }
     /* Do not change code below */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

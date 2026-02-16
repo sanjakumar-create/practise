@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/While and do-while loops/Generate a string with  odd  and  even/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/While and do-while loops/Generate a string with  odd  and  even/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-While_and_do-while_loops-Generate_a_string_with__odd__and__even.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Prism puzzler  Boxy volume adventure/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Prism puzzler  Boxy volume adventure/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Calling_methods-Prism_puzzler__Boxy_volume_adventure.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

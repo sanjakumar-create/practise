@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id=":Topics-Method__main-Select_all_correct_statements:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Method  main/Select all correct statements" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Readability Score (Java)" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Method  main (1)/Select all correct statements/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Method  main/Select all correct statements/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../../Topics/Method  main (1)/Select all correct statements/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../../Topics/Method  main (1)/Select all correct statements/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Method  main/Select all correct statements/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Method  main/Select all correct statements/test" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Method__main-Select_all_correct_statements.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

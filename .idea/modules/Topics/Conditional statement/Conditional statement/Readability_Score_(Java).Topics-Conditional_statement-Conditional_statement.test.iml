@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Conditional statement/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Conditional statement/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Conditional_statement-Conditional_statement.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

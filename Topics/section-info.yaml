@@ -9,8 +9,6 @@ content:
   - While and do-while loops
   - Break and continue. Branching
   - Declaring methods
-  - Method  main (1)
-  - Multiple conditions  switch (1)
   - Functional decomposition
   - Primitive and reference types
   - Type casting
@@ -23,3 +21,5 @@ content:
   - Iterating over arrays
   - Command-line arguments
   - String
+  - Instance methods
+  - Processing strings

@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Floating-point types and operations/Liquid pressure/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Floating-point types and operations/Liquid pressure/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Floating-point_types_and_operations-Liquid_pressure.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

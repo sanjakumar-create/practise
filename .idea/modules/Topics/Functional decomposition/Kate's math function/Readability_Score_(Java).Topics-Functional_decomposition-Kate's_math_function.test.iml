@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Functional decomposition/Kate's math function/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Functional decomposition/Kate's math function/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Functional_decomposition-Kate's_math_function.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

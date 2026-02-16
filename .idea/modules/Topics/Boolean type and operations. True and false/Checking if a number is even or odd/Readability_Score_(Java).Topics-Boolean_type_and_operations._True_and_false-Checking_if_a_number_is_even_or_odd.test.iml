@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Checking if a number is even or odd/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Checking if a number is even or odd/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Boolean_type_and_operations._True_and_false-Checking_if_a_number_is_even_or_odd.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

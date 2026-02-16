@@ -6,5 +6,8 @@ files:
   - name: test/ReadabilityTest.java
     learner_created: false
 feedback_link: https://hyperskill.org/projects/39/stages/206/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 16 Feb 2026 18:52:04 UTC"
 record: 2

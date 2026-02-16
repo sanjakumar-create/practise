@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Array/Sum of multiples of 3 in an array/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Array/Sum of multiples of 3 in an array/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Array-Sum_of_multiples_of_3_in_an_array.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

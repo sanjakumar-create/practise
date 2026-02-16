@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comparing values. Relational operators/Groundhogs at a party/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comparing values. Relational operators/Groundhogs at a party/out" />
     </content>
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Concatenating and printing text, integer, and boolean values/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Concatenating and printing text, integer, and boolean values/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Printing_data-Concatenating_and_printing_text,_integer,_and_boolean_values.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

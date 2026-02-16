@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Comparing_values._Relational_operators-Comparing_two_integers__greater,_less_or_equal.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

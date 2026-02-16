@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Types and variables/So many types/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Types and variables/So many types/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Types_and_variables-So_many_types.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

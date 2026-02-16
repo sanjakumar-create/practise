@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/While and do-while loops/The largest element of a sequence/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/While and do-while loops/The largest element of a sequence/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-While_and_do-while_loops-The_largest_element_of_a_sequence.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal/out" />
     </content>
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

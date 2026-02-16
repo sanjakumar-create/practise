@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Functional decomposition/Math wizardry in your pocket/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Functional decomposition/Math wizardry in your pocket/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Functional_decomposition-Math_wizardry_in_your_pocket.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

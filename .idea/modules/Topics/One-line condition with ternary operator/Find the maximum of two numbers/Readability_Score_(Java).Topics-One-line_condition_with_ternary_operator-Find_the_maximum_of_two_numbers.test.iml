@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/One-line condition with ternary operator/Find the maximum of two numbers/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/One-line condition with ternary operator/Find the maximum of two numbers/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-One-line_condition_with_ternary_operator-Find_the_maximum_of_two_numbers.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

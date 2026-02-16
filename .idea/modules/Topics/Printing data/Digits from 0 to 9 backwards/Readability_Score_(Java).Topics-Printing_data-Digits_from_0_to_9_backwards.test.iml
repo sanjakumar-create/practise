@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Digits from 0 to 9 backwards/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Digits from 0 to 9 backwards/test" />
-    <orderEntry type="jdk" jdkName="jbr-21" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Readability_Score_(Java).Topics-Printing_data-Digits_from_0_to_9_backwards.main" />
     <orderEntry type="module" module-name="Readability_Score_(Java).util.main" />

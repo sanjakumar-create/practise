@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../../../Simple Tic-Tac-Toe (Java)/task/build/reports/tests/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../../../Simple Tic-Tac-Toe (Java)/task/build/reports/tests/out" />
     </content>
-    <orderEntry type="jdk" jdkName="ms-21" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

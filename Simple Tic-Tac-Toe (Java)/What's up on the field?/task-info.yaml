@@ -1,11 +1,13 @@
 type: edu
-custom_name: What's up on the field?
 files:
-  - name: src/tictactoe/Main.java
+  - name: src/tictactoe/Final_Main.java
     visible: true
     learner_created: false
   - name: test/TicTacToeTest.java
     learner_created: false
 feedback_link: https://hyperskill.org/projects/48/stages/257/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 17 Feb 2026 13:59:25 UTC"
 record: 3

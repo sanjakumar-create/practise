@@ -1,9 +1,6 @@
 type: edu
 custom_name: Welcome to the battlefield!
 files:
-  - name: src/tictactoe/Main.java
-    visible: true
-    learner_created: false
   - name: test/TicTacToeTest.java
     visible: true
     learner_created: false

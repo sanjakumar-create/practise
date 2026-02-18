@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/tictactoe/Final_Main.java
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    learner_created: false
+  - name: src/tictactoe/new_sonl_for_first_move.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/48/stages/258/implement#comment
+status: Failed
+feedback:
+  message: |-
+    Error in test #1
+
+    There are 3 classes with main method: tictactoe.Final_Main, tictactoe.Main, tictactoe.new_son_for_first_move.
+    Leave only one of them to be executed.
+  time: "Wed, 18 Feb 2026 12:47:37 UTC"
+record: -1
